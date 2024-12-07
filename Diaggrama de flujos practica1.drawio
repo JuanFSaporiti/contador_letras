@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
+  <diagram name="Page-1" id="XNI81vricHY3SyXMYTJp">
+    <mxGraphModel dx="1426" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UELcCtPVtXjjgOWKzeyA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UELcCtPVtXjjgOWKzeyA-1" target="UELcCtPVtXjjgOWKzeyA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UELcCtPVtXjjgOWKzeyA-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="372.75" width="105.5" height="105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UELcCtPVtXjjgOWKzeyA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UELcCtPVtXjjgOWKzeyA-2" target="UELcCtPVtXjjgOWKzeyA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UELcCtPVtXjjgOWKzeyA-2" value="Mostrar mensaje;&amp;nbsp; &#39;Por favor ingrese una palabra&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="160" width="195" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UELcCtPVtXjjgOWKzeyA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UELcCtPVtXjjgOWKzeyA-4" target="UELcCtPVtXjjgOWKzeyA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UELcCtPVtXjjgOWKzeyA-4" value="Definir la variable cantidad_letras y asignarle la longitud de palabra_ingresada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="340" width="305" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UELcCtPVtXjjgOWKzeyA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UELcCtPVtXjjgOWKzeyA-6" target="UELcCtPVtXjjgOWKzeyA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UELcCtPVtXjjgOWKzeyA-6" value="Mostrar mensaje:&quot;La palabra ingresada tiene, cantidad_letras,&quot;letras&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="308.5" y="530" width="234" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UELcCtPVtXjjgOWKzeyA-8" value="Fin" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="740" width="155.5" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
